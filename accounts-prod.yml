@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Welcome to the Accounts Service related to PROD APIS!"
   contactDetails:
-    email: "prodtech@eazybytes.com"
+    email: "{cipher}c56597ca85b80f0f12183e5b8411826cf4a9954d6f88e92d33f793bb97f5ee7f6e349f0107b5d3d421d45c054fbebd65"
     name: "John - Developer"
   onCallSupport:
     - (777) 789-1234
