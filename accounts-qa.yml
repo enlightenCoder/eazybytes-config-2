@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to the Accounts Service related to QA APIS!"
+  contactDetails:
+      email: "qatech@eazybytes.com"
+      name: "Deepak - Developer"
+  onCallSupport:
+    - (666) 365-1234
+    - (666) 735-5678

@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+loans:
+  message: "Welcome to the Loans Service APIS!"
+  contactDetails:
+    email: "tech@eazybytes.com"
+    name: "John - Developer"
+  onCallSupport:
+    - (555) 789-1234
+    - (555) 732-5678

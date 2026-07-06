@@ -1,0 +1,11 @@
+build:
+  version: "5.0"
+
+cards:
+  message: "Welcome to the Cards Service related to PROD APIS!"
+  contactDetails:
+    email: "cardprodtutor@eazybytes.com"
+    name: "John - Developer"
+  onCallSupport:
+    - (333) 789-1234
+    - (333) 732-5678

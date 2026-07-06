@@ -1,0 +1,11 @@
+build:
+  version: "12.0"
+
+loans:
+  message: "Welcome to the Loans Service APIS related to PROD!"
+  contactDetails:
+    email: "techprod@eazybytes.com"
+    name: "Johny prod - Developer"
+  onCallSupport:
+    - (222) 789-1234
+    - (222) 732-5678

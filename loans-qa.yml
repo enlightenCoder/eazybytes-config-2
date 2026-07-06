@@ -1,0 +1,11 @@
+build:
+  version: "7.0"
+
+loans:
+  message: "Welcome to the Loans Service APIS related to QA!"
+  contactDetails:
+    email: "qatech@eazybytes.com"
+    name: "John - Developer"
+  onCallSupport:
+    - (999) 789-1234
+    - (999) 732-5678

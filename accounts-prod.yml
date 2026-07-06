@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to the Accounts Service related to PROD APIS!"
+  contactDetails:
+    email: "prodtech@eazybytes.com"
+    name: "John - Developer"
+  onCallSupport:
+    - (777) 789-1234
+    - (777) 732-5678
