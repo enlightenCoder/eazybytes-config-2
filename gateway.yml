@@ -15,10 +15,6 @@ spring:
     gateway:
       server:
         webmvc:
-          routes:
-            - id: accounts
-              uri: lb://accounts
-              predicates:
-                - Path=/accounts/**
-              filters:
-                - StripPrefix=1
+          discovery:
+            locator:
+              enabled: true
