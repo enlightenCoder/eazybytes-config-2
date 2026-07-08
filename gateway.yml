@@ -13,9 +13,7 @@ eureka:
 spring:
   cloud:
     gateway:
-      server:
-        webmvc:
-          discovery:
-            locator:
-              enabled: true
-              lower-case-service-id: true
+      discovery:
+        locator:
+          enabled: true
+          lower-case-service-id: true
