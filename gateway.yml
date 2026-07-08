@@ -9,3 +9,14 @@ eureka:
     registerWithEureka: true
     serviceUrl:
       defaultZone: http://localhost:8070/eureka/
+
+spring:
+  cloud:
+    gateway:
+      server:
+        webmvc:
+          routes:
+            - id: accounts
+              uri: lb://accounts
+              predicates:
+                - Path=/accounts/**
